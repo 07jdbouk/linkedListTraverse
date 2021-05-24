@@ -1,1 +1,2 @@
-# linked list traversal \n Iterative and recursive approach
+# linked list traversal
+Iterative and recursive approach
